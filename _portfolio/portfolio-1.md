@@ -1,6 +1,6 @@
 ---
 title: "University of Nottingham Feature: From Nottingham to the UN in Thailand and a PhD in Japan"
-excerpt: "University of Nottingham Careers Article <br/><img src='images/jack-crawford500300.png'>"
+excerpt: "University of Nottingham Careers Article <br/><img src=' /images/jack-crawford500300.png'>"
 collection: portfolio
 ---
 
