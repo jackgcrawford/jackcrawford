@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Economic Affairs and Transport Specialist in Asia-Pacific"
+title: Jack Crawford | "Economic Affairs and Transport Specialist in Asia-Pacific"
 author_profile: true
 redirect_from: 
   - /about/
