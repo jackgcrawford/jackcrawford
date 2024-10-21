@@ -20,14 +20,14 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "jc_grey.png"
   name             : "Jack Crawford"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "PhD Student at Kyoto University and Economic Affairs (Transport) at United Nations ESCAP"
   location         : "Bangkok, TH and Kyoto, JP"
-  employer         : "PhD Student at Kyoto University"
-  uri              : # URL
+  employers:
+    - Kyoto University"
+    - United Nations ESCAP"
   email            : "jack.crawford.84h@st.kyoto-u.ac.jp" 
 
   # Academic websites
