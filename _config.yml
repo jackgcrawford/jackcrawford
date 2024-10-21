@@ -78,7 +78,7 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  reports:
+  report:
     title: 'Reports and Policy Briefs'
 
 # Site Settings
