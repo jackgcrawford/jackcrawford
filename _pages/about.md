@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home
 title: "Economic Affairs and Transport Specialist in Asia-Pacific
 author_profile: true
 redirect_from: 
