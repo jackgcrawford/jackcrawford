@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 4"
+title: "Monograph Series on Transitioning to Electric Mobility in the Asia-Pacific Region: Accelerating the Transition of Public Transport Fleets"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: report
+permalink: /publication/2023-12-01-monograph
+date: 2023-12-01
+venue: 'United Nations Economic and Social Commission for Asia and Pacific'
+paperurl: 'https://www.unescap.org/kp/2024/pathways-sustainable-development-nexus-transport-energy-and-urban-planning-asia-and-pacific](https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets'
+image: '/images/publication2.png'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
