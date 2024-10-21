@@ -4,7 +4,7 @@ excerpt: "University of Nottingham Feature <br/><img src=' /images/jack-crawford
 collection: portfolio
 ---
 
-Taken from the University of Nottingham on 20.10.2024, available at: https://blogs.nottingham.ac.uk/careers/2024/08/13/from-nottingham-to-the-un-in-thailand-and-a-phd-in-japan/
+Taken from the University of Nottingham on 20.10.2024, available at: (https://blogs.nottingham.ac.uk/careers/2024/08/13/from-nottingham-to-the-un-in-thailand-and-a-phd-in-japan/)
 
 Born and raised in Nottingham, I studied BSc Management with a Placement Year at the University of Nottingham from 2017 to 2022.
 
