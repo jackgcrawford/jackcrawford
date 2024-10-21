@@ -4,7 +4,7 @@ excerpt: "Article for United Nations Economic and Social Commission for Asia and
 collection: portfolio
 ---
 
-Taken from the United Nations ESCAP on 21.10.2024, available at: https://www.unescap.org/blog/accelerating-transition-towards-electrification-public-transport-asia-and-pacific
+Taken from the United Nations ESCAP on 21.10.2024, available at: (https://www.unescap.org/blog/accelerating-transition-towards-electrification-public-transport-asia-and-pacific)
 
 The Asia-Pacific region is experiencing a rapid increase in demand for passenger transport driven by high population and economic growth rates. While the crucial role of transport for economic and social development cannot be understated, it is important to address the sector's reliance on fossil fuels as the region is responsible for more than half of global energy consumption and greenhouse gas (GHG) emissions. Without intervention, 75 per cent of transport-related energy consumption will come from oil products by 2030, and CO2 emissions from transport will increase by 47 per cent in 2050, compared to 2015 levels. Therefore, the transport sector has a pivotal role in the pursuit of achieving net-zero emissions by 2050.
 
