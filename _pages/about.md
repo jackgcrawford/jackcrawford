@@ -1,8 +1,6 @@
 ---
 permalink: /
 title: "Economic Affairs and Transport Specialist in Asia-Pacific"
-
-About
 author_profile: true
 redirect_from: 
   - /about/
