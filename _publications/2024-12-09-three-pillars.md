@@ -1,5 +1,5 @@
 ---
-title: "Three Pillars of Liveable Cities in Asia and the Pacific"
+title: "Policy Brief on the Three Pillars of Liveable Cities in Asia and the Pacific: Exploring the Nexus of Health, Road Safety, and Urban Mobility"
 collection: publications
 category: report
 permalink: /publication/2024-12-09-monograph
