@@ -5,5 +5,5 @@ category: report
 permalink: /publication/2023-12-01-monograph
 date: 2023-12-01
 venue: 'United Nations Economic and Social Commission for Asia and Pacific'
-paperurl: 'https://www.unescap.org/kp/2024/pathways-sustainable-development-nexus-transport-energy-and-urban-planning-asia-and-pacific](https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets'
+paperurl: 'https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets'
 ---
