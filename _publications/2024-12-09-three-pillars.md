@@ -16,6 +16,7 @@ including air and noise pollution, road safety, and the disproportionate impact 
 vulnerable road users. The document underscores the importance of political will and leadership in
 implementing measures to improve health in urban settings and introduces concepts for creating
 cohesive, integrated approaches to transport within cities.
+
 Transport has been a significant contributor to negative externalities in urban areas, particularly in the
 form of air pollution, which has detrimental effects on health. The traditional approach to transport
 planning, which prioritized physical movement and convenience, has led to increased congestion and
@@ -24,6 +25,7 @@ landscapes, such as promoting the use of active transport modes, which reduce tr
 pollution, while also significantly improving physical and mental health. By prioritizing walking, cycling,
 and public transport, urban planning can foster social equity and inclusion, provide low-cost travel
 options and mitigate the impact of climate-related risks on marginalized communities.
+
 The brief highlights the significance of sustainable urban mobility in supporting the attainment of the
 people-centered goals of the 2030 Agenda for Sustainable Development. It discusses the role of the
 Avoid-Shift-Improve framework and Sustainable Urban Mobility Plans in promoting sustainable urban
@@ -35,6 +37,7 @@ leverages the Sustainable Urban Transport Index, which was developed by ESCAP as
 measuring sustainable transport metrics across cities in Asia and the Pacific. Case studies are provided
 to illustrate the effectiveness of implementing sustainable urban transport measures to improve health in
 urban settings.
+
 The way forward underscores the critical importance of embedding people-oriented development
 concepts, such as the Avoid-Shift-Improve framework, to overcome political resistance to sustainable
 transport measures. The need for strong political commitment to transport policies and planning is also
