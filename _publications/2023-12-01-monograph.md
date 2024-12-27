@@ -7,3 +7,4 @@ date: 2023-12-01
 venue: 'United Nations Economic and Social Commission for Asia and Pacific'
 paperurl: 'https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets'
 ---
+<img src=' /images/monograph.png'>
