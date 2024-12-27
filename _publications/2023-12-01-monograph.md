@@ -9,5 +9,6 @@ paperurl: 'https://www.unescap.org/kp/2023/accelerating-transition-public-transp
 ---
 <a href="https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets" target="_blank">
   <img src="/images/monograph.png">
+</a>
 
 The Monogroph is a biennial flagship publication of the United Nations ESCAP. This edition provides a comprehensive guide for implementing electric mobility in public transport systems in Asia and the Pacific. It addresses the urgent need to mitigate transport-related emissions in the region, emphasizing the sector's role in economic and social development. The guide outlines a systematic process that includes preparing for policy development, formulating a targeted policy package, effectively implementing the transition, and managing the transition to ensure sustainable and efficient operation of electric mobility in public transportation.
