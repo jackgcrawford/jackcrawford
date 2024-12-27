@@ -8,7 +8,7 @@ venue: 'United Nations Economic and Social Commission for Asia and Pacific'
 paperurl: 'https://www.unescap.org/kp/2024/accelerating-electric-mobility-public-transport-how-asia-and-pacific-could-unlock-financing'
 image: '/images/publication3.png'
 ---
-<a href="[https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets](https://www.unescap.org/kp/2024/accelerating-electric-mobility-public-transport-how-asia-and-pacific-could-unlock-financing)" target="_blank">
+<a href="https://www.unescap.org/kp/2024/accelerating-electric-mobility-public-transport-how-asia-and-pacific-could-unlock-financing" target="_blank">
   <img src="/images/financingebuses.png">
 </a>
 
