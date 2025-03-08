@@ -25,12 +25,12 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Kyoto University <br/> Economic Affairs at UNESCAP"
   location         : "Kyoto, JP and Bangkok, TH"
-  employer         : "Kyoto University / United Nations"
+  employer         : "Kyoto University"
   email            : "jack.crawford.84h@st.kyoto-u.ac.jp" 
 
   # Academic websites
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=Uz3AxGsAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
