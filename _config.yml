@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack G. Crawford
-ジャック・クロフォード"
+title                    : "Jack G. Crawford <br/> ジャック・クロフォード"
 title_separator          : "-"
 name                     : &name "Jack Crawford"
 description              : &description "PhD Student at Kyoto University and Economic Affairs (Transport) at United Nations ESCAP"
