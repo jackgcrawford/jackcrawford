@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Jack G. Crawford is an Economic Affairs and Transport Specialist with the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP). He focuses on electric mobility and has collaborated with private companies, international organizations, investors, and research teams to implement capacity-building and technical cooperation projects across the region. Jack has authored key UN publications, including a flagship Monograph Series on electric mobility and several policy briefs on urban health, financial economics, and inclusive transport.
+Jack G. Crawford is an Economic Affairs and Transport Specialist with the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP). He focuses on electric mobility and has collaborated with private companies, international organizations, investors, and research teams to implement capacity-building and technical cooperation projects across the region. Jack is the author of publications including a flagship UN Monograph  on electric mobility, and policy briefs on urban health, financial economics, and inclusive transport.
 
-Currently, Jack is pursuing a PhD in Economics at Kyoto University, Japan, where he is researching the socio-economic impacts of electric mobility in the Asia-Pacific region. He also holds Master’s Degrees in Economics and East Asian Sustainable Development from Kyoto University and a Bachelor's Degree in Business Management from the University of Nottingham, UK.
+Jack is pursuing a PhD in Economics at Kyoto University, Japan, where he is researching the socio-economic impacts of electric mobility in the Asia-Pacific region. He also holds Master’s Degrees in Economics and East Asian Sustainable Development from Kyoto University and a Bachelor's Degree in Business Management from the University of Nottingham, UK.
 
 Jack has experience working in the public, private, and intergovernmental sectors across Asia, Africa, and Europe. His diverse background includes roles in health and social care for the British Government and as a field assistant in Tanzania. Jack grew up in the United Kingdom.
 
