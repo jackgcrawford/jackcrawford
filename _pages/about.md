@@ -11,7 +11,7 @@ Jack G. Crawford is an Economic Affairs and Transport Specialist with the United
 
 Jack is pursuing a PhD in Economics at Kyoto University, Japan, where he is researching the socio-economic impacts of electric mobility in the Asia-Pacific region. He also holds Master’s Degrees in Economics and East Asian Sustainable Development from Kyoto University, where  his thesis focused on socio-technical transitions to electric vehicles in Asia and the Pacific, and a Bachelor’s Degree in Business Management from the University of Nottingham, UK.
 
-Jack has experience working in the public, private, and intergovernmental sectors across Asia, Africa, and Europe. His diverse background includes roles in health and social care for the British Government and as a field assistant in Tanzania. Jack grew up in the United Kingdom.
+Jack has over 3 years of professional experience working in the public, private, and intergovernmental sectors across Asia, Africa, and Europe. His diverse background includes roles in health and social care for the British Government and as a field assistant in Tanzania. Jack grew up in the United Kingdom.
 
 ジャック・G・クロフォードは、国連アジア太平洋経済社会委員会（ESCAP）で働く経済問題と交通専門家です。彼は電動モビリティに焦点を当て、民間企業、国際機関、投資家、研究チームと協力して、地域全体で能力構築と技術協力プロジェクトを実施してきました。ジャックは、電動モビリティに関する旗艦モノグラフシリーズや、都市の健康、金融経済、包括的交通に関する一連の政策ブリーフを含む、重要な国連出版物の著者です。
 
