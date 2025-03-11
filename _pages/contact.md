@@ -12,4 +12,4 @@ I am also available through my social channels which can be found in the sidebar
 また、私のソーシャルチャンネルは、このページの左側のサイドバーにありますので、そちらからもご利用いただけます。
 
 
-<img src='/images/KU.jpg' style="width: 50%; height: auto;">
+<img src='/images/KU.jpg' style="width: 100%; height: auto;">
