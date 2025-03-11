@@ -5,14 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "About"
+  - title: "About 略歴"
     url: /
     
-  - title: "Publications"
+  - title: "Publications 出版物"
     url: /publications/
 
-  - title: "Conferences"
+  - title: "Conferences 会議"
     url: /conferences/    
     
-  - title: "Press"
+  - title: "In the Media メディア"
     url: /press/
