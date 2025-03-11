@@ -11,5 +11,3 @@ I am also available through my social channels which can be found in the sidebar
 お気軽にご連絡ください: <a href="mailto:jack.crawford.84h@st.kyoto-u.ac.jp">jack.crawford.84h@st.kyoto-u.ac.jp</a>
 また、私のソーシャルチャンネルは、このページの左側のサイドバーにありますので、そちらからもご利用いただけます。
 
-
-<img src='/images/KU.jpg' style="width: 100%; height: auto;">
