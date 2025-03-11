@@ -24,8 +24,8 @@ author:
   name             : "Jack G. Crawford"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Kyoto University <br/> Economic Affairs at UNESCAP"
-  location         : "Kyoto, JP and Bangkok, TH"
-  employer         : "Kyoto University"
+  location         : 
+  employer         : 
   email            : "jack.crawford.84h@st.kyoto-u.ac.jp" 
 
   # Academic websites
