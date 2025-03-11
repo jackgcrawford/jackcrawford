@@ -19,4 +19,4 @@ Jack has experience working in the public, private, and intergovernmental sector
 
 ジャックは、アジア、アフリカ、ヨーロッパの公共、民間、政府間セクターでの経験を持っています。彼の多様な背景には、英国政府の健康と社会福祉分野での役割や、タンザニアでのフィールドアシスタントとしての役割が含まれています。ジャックは英国で育ちました。
 
-<img src='/images/TD_JC.jpg'>
+<img src='/images/Jeepney.JPG'>
