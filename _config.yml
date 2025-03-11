@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Crawford"
+title                    : "Jack G. Crawford"
 title_separator          : "-"
 name                     : &name "Jack Crawford"
 description              : &description "PhD Student at Kyoto University and Economic Affairs (Transport) at United Nations ESCAP"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "Profile_JC.jpg"
-  name             : "Jack Crawford"
+  name             : "Jack G. Crawford"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Kyoto University <br/> Economic Affairs at UNESCAP"
   location         : "Kyoto, JP and Bangkok, TH"
