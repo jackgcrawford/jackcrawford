@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
-
   <div class="wordwrap">You can also find these publications on <a href="{{site.author.researchgate}}">my ResearchGate profile</a>.</div>
 <div class="wordwrap">これらの出版物は、私の<a href="{{site.author.researchgate}}">ResearchGateプロフィール</a>でも見つけることができます。</div>
 ---
 ---
-
 <h3>United Nations Publications</h3>
 <table class="tg">
 <tbody>
