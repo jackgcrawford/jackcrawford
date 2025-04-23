@@ -13,9 +13,6 @@ main:
 
   - title: "Conferences 会議"
     url: /conferences/    
-    
-  - title: "In the Media メディア"
-    url: /press/
 
   - title: "Contact 連絡"
     url: /contact/
