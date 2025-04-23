@@ -8,8 +8,8 @@ main:
   - title: "About 略歴"
     url: /
     
-  - title: "Publications 出版物"
-    url: /publications/
+  - title: "Research 研究業績"
+    url: /research/
 
   - title: "Conferences 会議"
     url: /conferences/    
