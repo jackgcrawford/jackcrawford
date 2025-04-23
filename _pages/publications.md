@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications 出版物"
-permalink: /publications/
+title: "Research 研究業績"
+permalink: /research/
 author_profile: true
 ---
 {% include base_path %}
