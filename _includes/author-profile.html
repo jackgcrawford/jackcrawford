@@ -59,6 +59,12 @@
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
+      {% if author.researchmap %}
+        <li><a href="{{ author.researchmap }}" target="_blank" rel="noopener"><i class="fas fa-map-marker-alt fa-fw icon-pad-right" aria-hidden="true"></i>researchmap
+    </a>
+  </li>
+{% endif %}
+
 
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
