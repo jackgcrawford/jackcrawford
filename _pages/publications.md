@@ -17,7 +17,6 @@ author_profile: true
   <a href="https://scholar.google.com/citations?user=Uz3AxGsAAAAJ&hl=en" target="_blank">Google Scholarプロフィール</a> でも見つけることができます。
 </div>
 ---
----
 <h3>United Nations Publications</h3>
 <table class="tg">
 <tbody>
