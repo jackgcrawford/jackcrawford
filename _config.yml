@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Crawford <br/> ジャック・クロフォード"
+title                    : "Jack Crawford"
 title_separator          : "-"
 name                     : &name "Jack Crawford"
 description              : &description "PhD Student in Economics at Kyoto University"
