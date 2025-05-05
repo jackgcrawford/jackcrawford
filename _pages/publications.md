@@ -1,7 +1,9 @@
 ---
 layout: archive
-title: "Research 研究業績"
-permalink: /research/
+title: "Publications 研究業績"
+seo:
+  title: "Publications 研究業績 | Jack Crawford"
+permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
