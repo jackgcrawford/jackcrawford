@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Contact 連絡"
+seo:
+  title: "Contact 連絡 | Jack Crawford"
 permalink: /contact/
 author_profile: true
 ---
