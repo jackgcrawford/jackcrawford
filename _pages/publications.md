@@ -1,9 +1,8 @@
 ---
 layout: archive
 title: "Research 研究業績"
-seo:
-  title: "Research 研究業績 | Jack Crawford"
-  description: "A selection of publications by Jack Crawford on electric mobility and sustainable development in Asia and the Pacific."
+page_title: "Research 研究業績 | Jack Crawford"
+description: "A selection of publications by Jack Crawford on electric mobility and sustainable development in Asia and the Pacific."
 permalink: /research/
 author_profile: true
 ---
