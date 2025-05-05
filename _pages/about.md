@@ -2,7 +2,9 @@
 permalink: /
 title: "Economic Affairs and Transport Specialist in Asia-Pacific"
 page_title: "Jack Crawford | Economic Affairs and Transport Specialist in Asia-Pacific"
-description: "Jack Crawford is a PhD students and transport specialist in Asia and the Pacific."
+description: "Jack Crawford is a PhD student and transport specialist in Asia and the Pacific."
+header:
+  image: /images/social-preview.jpg
 author_profile: true
 redirect_from: 
   - /about/
