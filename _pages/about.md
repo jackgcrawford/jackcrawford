@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Economic Affairs and Transport Specialist in Asia-Pacific"
 page_title: "Jack Crawford | Economic Affairs and Transport Specialist in Asia-Pacific"
 description: "Jack Crawford is a PhD student and transport specialist in Asia and the Pacific."
@@ -10,6 +9,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+permalink: /
 ---
 
 I am pursuing a PhD in Economics at Kyoto University, Japan, specializing in the socio-economic dimensions of electric mobility across Asia and the Pacific. My academic research is grounded in professional experience advancing transport initiatives in the region. At the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP), I managed the implementation of capacity-building and technical cooperation projects, including the financing and deployment of pilot electric bus fleets in Lao PDR, the Philippines, Sri Lanka, and Tajikistan. I am the author of several United Nations' publications, ranging from a flagship report on electrifying public transport to policy briefs on financing electric mobility transitions. I hold Master’s degrees in Economics and East Asian Sustainable Development from Kyoto University, where my thesis explored socio-technical transitions to electric vehicles.
