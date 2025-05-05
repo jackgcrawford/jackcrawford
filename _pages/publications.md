@@ -3,9 +3,7 @@ layout: archive
 title: "Research 研究業績"
 page_title: "Jack Crawford | Publications and Research"
 description: "A selection of publications by Jack Crawford on electric mobility and sustainable development in Asia and the Pacific."
-header:
-  image: /images/digital-id-photo.jpg
-  image_alt: "Jack Crawford, PhD student and transport specialist"
+image: /images/digital-id-photo.jpg
 permalink: /research/
 author_profile: true
 ---
