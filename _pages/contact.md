@@ -2,6 +2,9 @@
 layout: archive
 title: "Contact 連絡"
 page_title: "Jack Crawford | Contact"
+header:
+  image: /images/digital-id-photo.jpg
+  image_alt: "Jack Crawford, PhD student and transport specialist"
 permalink: /contact/
 author_profile: true
 ---
