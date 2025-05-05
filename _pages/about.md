@@ -4,7 +4,8 @@ title: "Economic Affairs and Transport Specialist in Asia-Pacific"
 page_title: "Jack Crawford | Economic Affairs and Transport Specialist in Asia-Pacific"
 description: "Jack Crawford is a PhD student and transport specialist in Asia and the Pacific."
 header:
-  image: /images/social-preview.jpg
+  image: /images/digital-id-photo.jpg
+  image_alt: "Jack Crawford, PhD student and transport specialist"
 author_profile: true
 redirect_from: 
   - /about/
