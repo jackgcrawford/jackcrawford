@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Crawford"
+title                    : "Jack G. Crawford"
 title_separator          : "-"
-name                     : &name "Jack Crawford"
+name                     : &name "Jack G. Crawford"
 description              : &description "Economics PhD at Kyoto University"
 url                      : https://jackcrawford.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "digital-id-photo.jpg"
-  name             : "Jack Crawford"
+  name             : "Jack G. Crawford"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD at Kyoto University"
   location         : 
