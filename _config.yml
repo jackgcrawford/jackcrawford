@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jack G. Crawford"
 title_separator          : "-"
-name                     : &name "Jack G. Crawford"
+name                     : &name "Jack Gregory Crawford"
 description              : &description "Economics PhD at Kyoto University"
 url                      : https://jackcrawford.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
