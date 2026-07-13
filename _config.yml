@@ -20,8 +20,8 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "digital-id-photo.jpg"
-  name             : "Jack G. Crawford"
+  avatar           : "JackCrawford_Headshot.jpeg"
+  name             : "Jack Gregory Crawford"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD at Kyoto University"
   location         : 
