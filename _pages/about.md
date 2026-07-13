@@ -2,7 +2,7 @@
 title: "Economic Affairs and Transport Specialist in Asia-Pacific"
 page_title: "Jack Gregory Crawford | Economic Affairs and Transport Specialist in Asia-Pacific"
 description: "Jack Gregory Crawford is a PhD student and transport specialist in Asia and the Pacific."
-image: /images/JackCrawford_Headshot.jpeg
+image: /images/JackCrawford_Headshot-2.jpeg
 author_profile: true
 redirect_from: 
   - /about/
