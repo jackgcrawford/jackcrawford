@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Gregory Crawford"
+title                    : "Jack Gregory Crawford, PMP®"
 title_separator          : "-"
-name                     : &name "Jack Gregory Crawford"
-description              : &description "Economics PhD at Kyoto University"
+name                     : &name "Jack Gregory Crawford, PMP®"
+description              : &description "Climate Finance and Transport Economist"
 url                      : https://jackcrawford.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "JackCrawford_Headshot-2.jpeg"
-  name             : "Jack Gregory Crawford"
+  name             : "Jack Gregory Crawford, PMP®"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD at Kyoto University"
+  bio              : "Climate Finance and Transport Economist"
   location         : 
   employer         : 
   email            : "jack.crawford.84h@st.kyoto-u.ac.jp" 
