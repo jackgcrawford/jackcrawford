@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jack Gregory Crawford, PMP®"
 title_separator          : "-"
-name                     : &name "Jack Gregory Crawford, PMP®"
+name                     : &name "Jack Crawford, PMP®"
 description              : &description "Climate Finance and Transport Economist"
 url                      : https://jackcrawford.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
