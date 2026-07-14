@@ -11,8 +11,8 @@ main:
   - title: "Research 研究業績"
     url: /research/
 
-  - title: "Conferences 会議"
-    url: /conferences/    
+  - title: "Talks 講演"
+    url: /talks/    
 
   - title: "Contact 連絡"
     url: /contact/
