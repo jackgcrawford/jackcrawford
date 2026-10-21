@@ -23,6 +23,9 @@ author_profile: true
 <h3>United Nations Publications</h3>
 <table class="tg">
 <tbody>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"> <strong>Crawford, J.G.</strong> (2026). [Bulletin Chapter]. Strengthening Nationally Determined Contributions to Mobilize Climate Finance for Low-Carbon, Resilient, and Sustainable Transport. <em>Transport and Communications Bulletin for Asia and the Pacific</em>, No. 96, pp. 27–31. United Nations ESCAP. <td><a href="https://repository.unescap.org/server/api/core/bitstreams/dd1a340d-8109-421b-8fc7-eb431130551c/content#page=27" target="_blank"><strong>Available here</strong></a>
 <tr>  
 <td width="5%">[1]</td>
 <td width="95%"> <strong>Crawford, J.G.</strong>, and Pakvisal, B. (2024). [Policy Brief]. Three Pillars of Liveable Cities in Asia and the Pacific: Exploring the Nexus of Health, Road Safety, and Urban Mobility. <em>United Nations ESCAP</em> <td><a href="https://www.unescap.org/kp/2024/three-pillars-liveable-cities-asia-and-pacific" target="_blank"><strong>Available here</strong></a>
