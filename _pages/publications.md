@@ -20,7 +20,7 @@ author_profile: true
   <a href="https://scholar.google.com/citations?user=Uz3AxGsAAAAJ&hl=en" target="_blank">Google Scholarプロフィール</a> でも見つけることができます。
 </div>
 ---
-<h3>United Nations Publications</h3>
+<h3>Publications</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -41,13 +41,13 @@ author_profile: true
 <tr>  
 <td width="5%">[6]</td>
 <td width="95%"> <strong>Crawford, J.G.</strong> (2023). [Flagship Publication]. Monograph Series on Transitioning to Electric Mobility in the Asia-Pacific Region: Accelerating the Transition of Public Transport Fleets. <em>United Nations ESCAP</em> <td><a href="https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets" target="_blank"><strong>Available here</strong></a>
-<tr>  
-
-
+<tr>
+</tbody>
+</table>
 
 <div style="margin-top: 1.5rem;"></div>
 
-<h3>Opinion Pieces</h3>
+<h3> Opinion Pieces</h3>
 <table class="tg">
   <tbody>
     <tr>
