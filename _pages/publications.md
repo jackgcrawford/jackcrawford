@@ -44,16 +44,16 @@ author_profile: true
 <tr>  
 
 
+
 <div style="margin-top: 1.5rem;"></div>
 
-<h3>Expert Opinion Pieces</h3>
+<h3>Opinion Pieces</h3>
 <table class="tg">
   <tbody>
     <tr>
       <td width="5%">[1]</td>
       <td width="85%">
-        <strong>United Nations ESCAP</strong>.<br>
-        <em>Just Transition to Electric Mobility: Designed by Students.</em>
+        <strong>Just Transition to Electric Mobility: Designed by Students</strong>
       </td>
       <td width="10%">
         <a href="https://www.unescap.org/blog/just-transition-electric-mobility-designed-students" target="_blank"><strong>Link</strong></a>
@@ -63,8 +63,7 @@ author_profile: true
     <tr>
       <td width="5%">[2]</td>
       <td width="85%">
-        <strong>United Nations ESCAP</strong>.<br>
-        <em>Unlocking Synergies between Sustainable Transport and the SDGs.</em>
+        <strong>Unlocking Synergies between Sustainable Transport and the SDGs</strong>
       </td>
       <td width="10%">
         <a href="https://www.unescap.org/blog/unlocking-synergies-sustainable-transport-and-sdgs" target="_blank"><strong>Link</strong></a>
@@ -74,8 +73,7 @@ author_profile: true
     <tr>
       <td width="5%">[3]</td>
       <td width="85%">
-        <strong>United Nations ESCAP</strong>.<br>
-        <em>Accelerating the Transition towards Electrification of Public Transport in Asia and the Pacific.</em>
+        <strong>Accelerating the Transition towards Electrification of Public Transport in Asia and the Pacific</strong>
       </td>
       <td width="10%">
         <a href="https://www.unescap.org/blog/accelerating-transition-towards-electrification-public-transport-asia-and-pacific" target="_blank"><strong>Link</strong></a>
@@ -83,3 +81,4 @@ author_profile: true
     </tr>
   </tbody>
 </table>
+
