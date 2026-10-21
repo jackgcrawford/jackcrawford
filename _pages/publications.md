@@ -42,3 +42,44 @@ author_profile: true
 <td width="5%">[6]</td>
 <td width="95%"> <strong>Crawford, J.G.</strong> (2023). [Flagship Publication]. Monograph Series on Transitioning to Electric Mobility in the Asia-Pacific Region: Accelerating the Transition of Public Transport Fleets. <em>United Nations ESCAP</em> <td><a href="https://www.unescap.org/kp/2023/accelerating-transition-public-transport-fleets" target="_blank"><strong>Available here</strong></a>
 <tr>  
+
+
+<div style="margin-top: 1.5rem;"></div>
+
+<h3>Expert Opinion Pieces</h3>
+<table class="tg">
+  <tbody>
+    <tr>
+      <td width="5%">[1]</td>
+      <td width="85%">
+        <strong>United Nations ESCAP</strong>.<br>
+        <em>Just Transition to Electric Mobility: Designed by Students.</em>
+      </td>
+      <td width="10%">
+        <a href="https://www.unescap.org/blog/just-transition-electric-mobility-designed-students" target="_blank"><strong>Link</strong></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="5%">[2]</td>
+      <td width="85%">
+        <strong>United Nations ESCAP</strong>.<br>
+        <em>Unlocking Synergies between Sustainable Transport and the SDGs.</em>
+      </td>
+      <td width="10%">
+        <a href="https://www.unescap.org/blog/unlocking-synergies-sustainable-transport-and-sdgs" target="_blank"><strong>Link</strong></a>
+      </td>
+    </tr>
+
+    <tr>
+      <td width="5%">[3]</td>
+      <td width="85%">
+        <strong>United Nations ESCAP</strong>.<br>
+        <em>Accelerating the Transition towards Electrification of Public Transport in Asia and the Pacific.</em>
+      </td>
+      <td width="10%">
+        <a href="https://www.unescap.org/blog/accelerating-transition-towards-electrification-public-transport-asia-and-pacific" target="_blank"><strong>Link</strong></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
