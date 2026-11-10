@@ -29,7 +29,7 @@ author_profile: true
 <tr>
 <td width="5%">[1]</td>
 <td width="85%"><strong>Crawford, J.G.</strong> (2026). [Bulletin Chapter]. Strengthening Nationally Determined Contributions to Mobilize Climate Finance for Low-Carbon, Resilient, and Sustainable Transport. <em>Transport and Communications Bulletin for Asia and the Pacific</em>, No. 96, pp. 27–31. United Nations ESCAP.</td>
-<td width="10%"><a href="https://repository.unescap.org/server/api/core/bitstreams/dd1a340d-8109-421b-8fc7-eb431130551c/content#page=27" target="_blank"><strong>Available here</strong></a></td>
+<td width="10%"><a href="[https://repository.unescap.org/server/api/core/bitstreams/dd1a340d-8109-421b-8fc7-eb431130551c/content#page=27](https://www.unescap.org/kp/2026/transport-and-communications-bulletin-asia-and-pacific-no-96-un-decade-sustainable)" target="_blank"><strong>Available here</strong></a></td>
 </tr>
 <tr>
 <td width="5%">[2]</td>
